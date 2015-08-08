@@ -28,3 +28,21 @@ Plugin Features !!!!!
 you can download here : https://wordpress.org/plugins/as-login/
 ```
 
+##Demo
+
+Demo 1
+
+![Screenshot](https://github.com/anuislam/As-login/blob/master/img/Capture.PNG)
+
+Demo 2
+
+![Screenshot](https://github.com/anuislam/As-login/blob/master/img/Capturethree.PNG)
+
+Demo 3
+
+![Screenshot](https://github.com/anuislam/As-login/blob/master/img/Capturetwo.PNG)
+
+Demo 4
+
+![Screenshot](https://github.com/anuislam/As-login/blob/master/img/As%20login%20%E2%80%B9%20new%20pkgin%20%E2%80%94%20WordPress.png)
+
