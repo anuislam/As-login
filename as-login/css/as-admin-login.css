@@ -81,7 +81,7 @@ visibility: visible;
     position: relative; width: 90px;
     -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
 }
-.onoffswitch-checkbox, input[type=checkbox] {
+.onoffswitch-checkbox, .onoffswitch input[type=checkbox] {
     display: none;
 }
 .onoffswitch-label {

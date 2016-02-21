@@ -1,7 +1,7 @@
 <?php
 /**
  * @package as-login
- * @version 1.0
+ * @version 1.1
  * @licence GPLv2
  */
 
@@ -10,8 +10,8 @@ Plugin Name: AS login
 Plugin URI: https://wordpress.org/plugins/as-login/
 Description: AS login you can fully customize wordpress login page.
 Author: anuislam
-Version: 1.0
-Author URI: http://asfoundation.tk/
+Version: 1.1
+Author URI: http://anuislamshohag.tk
 */
 
 /*  Copyright 2015  anuislam  (email : anuislams@gmail.com)
